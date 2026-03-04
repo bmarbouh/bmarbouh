@@ -9,7 +9,6 @@
 ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=≫+Student+%40+1337+%7C+42+Network+🎓;≫+Low-level+wizard+%7C+C+%2F+C%2B%2B+%2F+Python;≫+Frontend+craftsman+%7C+React+%2F+JS+%2F+CSS;≫+Linux+enjoyer+%7C+rm+-rf+fear+%3D+0;≫+Always+building%2C+always+breaking+things+⚡" alt="Typing SVG" />
 
 <br/>
 
